@@ -1,0 +1,27 @@
+
+tkinter.scrolledtext
+		Text widget with a vertical scroll bar built in.
+
+tkinter.colorchooser
+    Dialog to let the user choose a color.
+
+tkinter.commondialog
+    Base class for the dialogs defined in the other modules listed here.
+
+tkinter.filedialog
+    Common dialogs to allow the user to specify a file to open or save.
+
+tkinter.font
+    Utilities to help work with fonts.
+
+tkinter.messagebox
+    Access to standard Tk dialog boxes.
+
+tkinter.simpledialog
+    Basic dialogs and convenience functions.
+
+tkinter.dnd
+    Drag-and-drop support for tkinter. This is experimental and should become deprecated when it is replaced with the Tk DND.
+
+turtle
+    Turtle graphics in a Tk window.

@@ -1,0 +1,11 @@
+setup.py
+Paquetes/__init__.py
+Paquetes/calculos.py
+Paquetes/ejemplo.py
+Paquetes/paquetes distribuibles.py
+Paquetes/básicos/__init__.py
+Paquetes/básicos/básicos.py
+calculos_b_sicos.egg-info/PKG-INFO
+calculos_b_sicos.egg-info/SOURCES.txt
+calculos_b_sicos.egg-info/dependency_links.txt
+calculos_b_sicos.egg-info/top_level.txt
